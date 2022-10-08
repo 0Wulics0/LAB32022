@@ -4,12 +4,6 @@
 ### Camilo A. Martín Moreno - Jorge A. Daza Rodríguez
 ### Universidad Nacional de Colombia
 
-<h1 align="center"; style="text-align:center;">Laboratorio 2 - Robótica de Desarrollo, Intro a ROS</h1>
-
-## Robótica 
-### Camilo A. Martín Moreno - Jorge A. Daza Rodríguez
-### Universidad Nacional de Colombia
-
 # Introducción
 
 En este laboratorio se busca controlar el manipulador a partir de entradas y salidas digitales para recibir instrucciones de la persona encargada de su desempeño. Para esto se usará RobotStudio.
@@ -27,7 +21,7 @@ Finalmente mediante las salidas un led indica que el programa ha llegado a su fi
 
 En el siguiente video se presentan algunos de los resultados del laboratorio:
 
-[![Alt text](https://img.youtube.com/vi/2D7pDAbch9E/0.jpg)](https://youtu.be/C1sEY2fazVE)
+[![Alt text](https://img.youtube.com/vi/C1sEY2fazVE/0.jpg)](https://youtu.be/C1sEY2fazVE)
 
 Figura 1: Demostración Laboratorio
 
